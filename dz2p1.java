@@ -1,3 +1,4 @@
+package ru.geekbrains.java1.Dz2;
 public class dz2p1 {
     public static void main(String[] args) {
         int[] arr1 = new int[7];
